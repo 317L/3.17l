@@ -219,16 +219,15 @@ img {
   .resume {
     position: fixed;
     right: -22px;
-    bottom: 75px;
+    bottom: 130px;
     transform: rotate(-270deg);
     color: #111111;
     text-decoration: none;
   }
   .scroll {
     position: fixed;
-    bottom: 0px;
+    bottom: 60px;
     right: 0px;
-    left: 0;
   }
 }
 .boxyellow {
